@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Maps Demo</string>
+    <string name="input_text">Looking for...</string>
+    <string name="button_send">Go!</string>
+    <string name="geojson_url">http://nodecloudantformgeojsonexample.mybluemix.net/cloudant/geojson</string>
+    <string name="remove">Remove</string>
+    <string name="add">Add</string>
+    <string name="visibility">Toggle Vis</string>
+</resources>

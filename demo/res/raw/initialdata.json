@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "0101010101",
+      "properties": {
+        "updated": 1478192442463,
+        "title": "Aiman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78,
+          13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7552525",
+      "properties": {
+        "updated": 1478191960715,
+        "title": "Cheok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78,
+          35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Lak",
+      "properties": {
+        "updated": 1478189915022,
+        "title": "rtp test"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.45517158508301,
+          35.83406275745698
+        ]
+      }
+    }
+  ],
+  "metadata": {
+    "generated": 1478207313666,
+    "status": 200,
+    "count": 3
+  }
+}
